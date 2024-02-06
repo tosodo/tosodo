@@ -54,15 +54,15 @@ Here are some highlights of my projects:
    - [Link to Demo/Documentation](link)
 
 ## Education
-- [Degree] in [Field], [University], [Year]
+- [BA] in [Business Studies], [Thames Valley University], [1996]
 - [Degree] in [Field], [University], [Year]
 
 ## Certifications
-- [Certification Name], [Issuing Organization], [Year]
-- [Certification Name], [Issuing Organization], [Year]
+- [Data Analyst], [https://www.credential.net/1b15842e-aa6d-4531-8425-c36a35580d48#gs.435mr3], [2023]
+- [Data Warehousing], [https://verify.datasciencedojo.com/verify/c973ac4d], [2022]
 
 ## Contact Me
-Feel free to reach out to me via [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+Feel free to reach out to me via [email](osodot@icloud.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/osodot/).
 
 ## Additional Links
 - [Personal Website/Blog](link)

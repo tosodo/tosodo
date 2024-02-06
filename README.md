@@ -1,4 +1,4 @@
-![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUyNG96anczaDVxZjZsMXh2Nnp2Y3pneDNxNWFzbDJmeGtzcXQ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0RqaTt0aB4ybMEnqU/giphy.gif)
+
 
 ## About Me :
 ## Professional Profile: 

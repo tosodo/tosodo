@@ -74,7 +74,7 @@ Here are some highlights of my projects:
 
 ## Education
 - [BA] in [Business Studies], [Thames Valley University], [1996]
-- [Degree] in [Field], [University], [Year]
+- [Certificate] in [Flatiron], [college], [2020]
 
 ## Certifications
 - [Data Analyst], [https://www.credential.net/1b15842e-aa6d-4531-8425-c36a35580d48#gs.435mr3], [2023]

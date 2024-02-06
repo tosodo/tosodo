@@ -1,8 +1,27 @@
-# tosodo
-
 ## About Me
-I am a passionate and dedicated data scientist with 4 years of experience in Data science . My expertise lies in Data Analysis,Data Visualisation,Statistical Analysis,NLP ,Prompt Engineering . I have a strong background in Data Analysis in Energy sector, Fintech, churn Analysis. [Data Analysis]  [(https://www.credential.net/1b15842e-aa6d-4531-8425-c36a35580d48#gs.42zbsc)]. Studied at fastFuture Avado. 
-Currently Learning Data Analysis with LLM and Prompt Engineering .
+
+## Professional Profile
+I am an accomplished data scientist with a proven track record of driving actionable insights and innovation through data-driven strategies. Over 4 years of hands-on experience in the dynamic realm of data science, I specialize in harnessing the power of data to drive, decision-making processes. My expertise spans across:
+
+- **Data Analysis:** Extracting valuable insights from complex datasets to inform strategic business decisions.
+- **Data Visualization:** Creating compelling visual representations that elucidate key trends and patterns.
+- **Statistical Analysis:** Utilizing advanced statistical techniques to uncover hidden correlations and trends.
+- **Natural Language Processing (NLP):** Leveraging NLP algorithms to derive meaningful insights from unstructured text data.
+- **Prompt Engineering:** Crafting tailored prompts to optimize machine learning models for enhanced performance.
+
+## Professional Achievements
+- **Business Development Background:** Bolstered by a robust foundation in business development, I bring a unique perspective to data science projects, aligning technical solutions with overarching business objectives.
+- **Certification in Data Analysis:** Recognized for proficiency in data analysis with a credential from [(https://www.credential.net/1b15842e-aa6d-4531-8425-c36a35580d48#gs.42zbsc)]. Studied at fastFuture Avado, validating my expertise in extracting actionable insights from diverse datasets.
+- **Educational Background:** Enriched my skill set through rigorous training at fastFuture Avado, honing my abilities in data science and business development.
+
+## Continuous Learning
+Driven by a passion for growth and innovation, I am currently expanding my skill set in two key areas:
+- **Data Analysis with LLM:** Embracing cutting-edge techniques in data analysis to stay ahead of industry trends and deliver value.
+- **Prompt Engineering:** Mastering the art of crafting precise prompts to optimize machine learning models for superior performance and accuracy.
+
+
+ 
+
 
 [![tosodo,s GitHub stats](https://github-readme-stats.vercel.app/api?username=tosodo)](https://github.com/tosodo/github-readme-stats)
 

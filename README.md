@@ -1,6 +1,7 @@
-## About Me
+![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUyNG96anczaDVxZjZsMXh2Nnp2Y3pneDNxNWFzbDJmeGtzcXQ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0RqaTt0aB4ybMEnqU/giphy.gif)
 
-## Professional Profile
+## About Me :
+## Professional Profile: 
 I am an accomplished data scientist with a proven track record of driving actionable insights and innovation through data-driven strategies. Over 4 years of hands-on experience in the dynamic realm of data science, I specialize in harnessing the power of data to drive, decision-making processes. My expertise spans across:
 
 - **Data Analysis:** Extracting valuable insights from complex datasets to inform strategic business decisions.

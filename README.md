@@ -18,7 +18,6 @@ Python · TypeScript · n8n · LangChain · OpenAI API · FastAPI · PostgreSQL 
 - [Real Estate AI Automation (n8n Agency Template)](https://github.com/tosodo/Real-Estate-AI-Automation-N8N-AgencyTemplate) — lead capture, AI enquiry response, and scheduling for real estate agencies
 - [lomaautos-ai-agent](https://github.com/tosodo/lomaautos-ai-agent) — multichannel AI receptionist for dealerships (voice, chat, WhatsApp)
 - [AiGentForce Training Platform](https://github.com/tosodo/Training-V1) — role-based AI training platform with Custom GPT deployment, built for delivering AI workshops at scale
-- [RecruitAI](https://github.com/tosodo/RecruitAI) — recruitment automation for UK businesses
 - [AiGentForce.io](https://github.com/tosodo/aigentforce-project) — AI strategy & readiness platform for SMEs
 
 **Work with me:** AI workshops, automation builds, and AI readiness consulting via [aigentforce.io](https://www.aigentforce.io)
